@@ -46,3 +46,14 @@ font-family: "poppins";
 .estudante-imagem{
   width: 120px;
 }
+.estudante-icone{
+  width: 30px
+}
+
+.estudante-div{ 
+  text-align: center;
+}
+.estudantes-titulo{
+  text-align: center;
+  padding: 50px 0;
+}
